@@ -6,9 +6,8 @@
 
 ## 包内文件
 z6/costom shutter sound自定义快门声/
-- cn/SHCORE.BIN：中文菜单核心，与根目录EG162080.BIN配套。
+- cn/：中文配套EG162080.BIN与SHCORE.BIN。
 - en/：英文配套EG162080.BIN与SHCORE.BIN。
-- EG162080.BIN：中文主固件
 - SHUTTER.WAV：卡上默认示例。
 - SHUTTER/1.WAV～4.WAV：四个声音示例：1猫声、2 某胶片相机快门声、3鸟声、4 某苏相机镜间快门声。
 - 声音要求.md：声音格式、命名与制作规范。

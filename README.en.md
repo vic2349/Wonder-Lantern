@@ -13,7 +13,7 @@ Located in `z6/Custom shutter sound自定义快门声/`:
 - `EG162080.BIN`: Main firmware for the Chinese version.
 - `SHUTTER.WAV`: Default sound example for the card.
 - `SHUTTER/1.WAV` through `4.WAV`: Four sound examples: 1 — a cat; 2 — the shutter of a film camera; 3 — a bird; 4 — the leaf shutter of a Soviet camera.
-- `SOUND_SPEC.md`: Sound format, naming, and preparation requirements.
+- `SOUND_SPEC.en.md`: Sound format, naming, and preparation requirements.
 
 ## Installation and Use
 
@@ -27,7 +27,7 @@ Located in `z6/Custom shutter sound自定义快门声/`:
 
 Update the firmware first. Once you have followed the installation steps, you can explore the feature. The custom shutter sound settings appear below **Firmware version** in the setup menu. *A cut-off meow after startup is normal.*
 
-After trying the feature, turn the camera off and remove the card. Follow the requirements in `SOUND_SPEC.md` to replace sounds 1–4 with your own shutter sounds. You may use fewer than four numbered sound files, but do not add more than four.
+After trying the feature, turn the camera off and remove the card. Follow the requirements in `SOUND_SPEC.en.md` to replace sounds 1–4 with your own shutter sounds. You may use fewer than four numbered sound files, but do not add more than four.
 
 ## Disabling and Restoring
 

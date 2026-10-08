@@ -18,7 +18,7 @@ Located in `z6/Custom shutter sound自定义快门声/`:
 ## Installation and Use
 
 1. Back up the existing settings-related files on the card. *It is recommended to move your photos off the card, then back up all files and folders at the card root.*
-2. For Chinese, copy the package-root `EG162080.BIN` and `cn/SHCORE.BIN` to the card root. For English, copy both BIN files from `en/` to the card root. Also copy the package-root `SHUTTER.WAV` and the `SHUTTER` folder to the card root. On the camera, start the update from **Firmware version**. Do not interrupt power during the update. Use a sufficiently charged battery as required by Nikon's firmware update instructions.
+2. For Chinese, copy `EG162080.BIN` and `SHCORE.BIN` from `cn/` to the card root. For English, copy these two files from `en/` to the card root. Choose only one language set. Then copy `SHUTTER.WAV` and the entire `SHUTTER/` folder from the package to the card root. On the camera, start the update from **Firmware version**. Do not interrupt power during the update. Use a sufficiently charged battery as required by Nikon's firmware update instructions.
 3. After the update, turn the camera off and back on. Wait about five seconds after startup and until the card access indicator goes out, then open the shutter sound settings in the setup menu to enable the feature, select a sound number, or play a preview.
 4. To change a sound, replace the corresponding WAV file, then select its number or use **Reload**. There is no need to flash the firmware again.
 5. *Please note*: The added menu supports only the directional buttons. The touchscreen and OK button cannot be used in this menu.
